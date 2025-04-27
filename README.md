@@ -1,4 +1,4 @@
-Hello! 👋🧑‍💻
+Hey,
 
 I study Math & CS at McGill University.
 - **Email:** jake.gameroff@mail.mcgill.ca
