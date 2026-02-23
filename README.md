@@ -1,1 +1,3 @@
-Hey, I'm Jake. I study Math & CS at McGill University. You can contact me [here](mailto:jake.gameroff@mail.mcgill.ca) and find my CV [here](https://github.com/jakegameroff/CV/blob/main/cv.pdf).
+Hey, I'm Jake. Check out my [website](https://jakegam.com).
+
+My profile picture is my a screenshot from a game of [agar.io](https://agar.io) during which I achieved my high-score of 170k.
