@@ -1,1 +1,3 @@
-Hey, I'm Jake. Check out my [website](https://jakerg.com).
+Graph theory badger  
+Hammer raised above the nodes  
+Merges pull requests
