@@ -1,3 +1,3 @@
-Graph theory badger  
-Hammer raised above the nodes  
-Merges pull requests
+Graph theory badger
+Hammer tucked beneath one paw
+Nodes fear his verdict
