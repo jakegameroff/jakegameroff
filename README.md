@@ -2,4 +2,4 @@ Graph theory badger
 
 Hammer tucked beneath one paw
 
-Nodes fear his verdict
+Smashes K5 flat
