@@ -1,4 +1,4 @@
-Graph theory badger
+Graph Theory Badger
 
 Hammer tucked beneath one paw
 
